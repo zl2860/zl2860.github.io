@@ -83,7 +83,7 @@ skills:
       - name: Fitness
         description: ''
         percent: 100
-        icon: dumbell
+        icon: dumbbell
         icon_pack: fas
       - name: Cats
         description: ''
@@ -112,7 +112,7 @@ social:
     link: https://github.com/zl2860
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/zongchao-liu-b93168193/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -124,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-I'm a PhD student in Epidemiology and Biostatistics at Peking University School of Oncology. My research interests include health data science, computational biology and cancer epidemiology. Currently I mainly focus on gastric cancer related research topics. I am honored to serve as a delegate at the 72nd Lindau Nobel Laureate Meeting in 2023.
+I'm a PhD student in Epidemiology and Biostatistics at Peking University School of Oncology. My research interests include health data science, computational biology and cancer epidemiology. Currently I mainly focus on gastric cancer related research topics. 
 {style="text-align: justify;"}
