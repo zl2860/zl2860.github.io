@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 刘宗超
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zong-Chao Liu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zong-Chao
+last_name: Liu
 
 # Status emoji
 status:
@@ -17,43 +17,53 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D student in epidmeiology and biostatistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Peking University
+    url: https://english.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include health data science, computational biology and cancer epidemiology. Currently I mainly focus on gastric cancer related topics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Health Data Science
+  - Computational Biology
+  - Epidemiology Methodology
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Epidemiology and Biostatistics
+      institution: Peking University
+      year: 2022-present
+    - course: MS in Biostatistics
+      institution: Columbia University
+      year: 2021
+    - course: MBBS (division of Epidemiology and Biostatistics)
+      institution: Shandong University
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
+        - name: Linux
+        description: ''
+        percent: 100
+        icon: linux
+        icon_pack: fab
+       - name: R
+        description: ''
+        percent: 100
+        icon: r-project
+        icon_pack: fab
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
       - name: Data Science
@@ -70,20 +80,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Fitness
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 100
+        icon: dumbell
         icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Cooking
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: bowl-food
         icon_pack: fas
 
 # Social/Academic Networking
@@ -94,18 +104,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=zsJJdD8AAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/zl2860
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -120,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a PhD student in Epidemiology and Biostatistics at Peking University School of Oncology. My research interests include health data science, computational biology and cancer epidemiology. Currently I mainly focus on gastric cancer related research topics. I am honored to serve as a delegate at the 72nd Lindau Nobel Laureate Meeting in 2023.
 {style="text-align: justify;"}
