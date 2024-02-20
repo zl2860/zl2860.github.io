@@ -65,7 +65,7 @@ sections:
         - title: Biostatistician
           company: Beijing Anzhen Hospital
           company_url: ''
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Beijing, China
           date_start: '2023-09-01'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Research Assistant
           company: Peking University Cancer Hospital & Institute
           company_url: ''
-          company_logo: org-x
+          # company_logo: org-x
           location: Beijing, China
           date_start: '2021-08-01'
           date_end: '2022-08-01'
@@ -86,7 +86,7 @@ sections:
         - title: Research Assistant
           company: Columbia University
           company_url: ''
-          company_logo: org-x
+          # company_logo: org-x
           location: New York, USA
           date_start: '2020-08-01'
           date_end: '2021-05-01'
@@ -94,11 +94,19 @@ sections:
         - title: Research Assistant
           company: New York State Psychiatry Institute
           company_url: ''
-          company_logo: org-x
+          # company_logo: org-x
           location: New York, USA
           date_start: '2020-03-01'
           date_end: '2021-05-01'
           description: Worked as a research assistant in the department of mental health data science.
+        - title: Staff Intern
+          company: Qingdao Center of Disease Control and Prevetion
+          company_url: ''
+          # company_logo: org-x
+          location: Qingdao, China
+          date_start: '2019-02-01'
+          date_end: '2019-06-01'
+          description: Internship in the department of occupational health.
     design:
       columns: '2'
   
@@ -136,7 +144,7 @@ sections:
       text: |-
         {{< gallery album="demo" >}}
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     content:
       title: Recent Publications
@@ -151,11 +159,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
