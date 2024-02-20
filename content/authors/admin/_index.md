@@ -51,12 +51,12 @@ education:
 skills:
   - name: Technical
     items:
-        - name: Linux
+      - name: Linux
         description: ''
         percent: 100
         icon: linux
         icon_pack: fab
-       - name: R
+      - name: R
         description: ''
         percent: 100
         icon: r-project
