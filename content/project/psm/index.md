@@ -13,7 +13,7 @@ image:
   caption: Photo by ChatGPT
   focal_point: Smart
 url_code: 'https://github.com/jaredgarfinkel/P8160_project1_group1.git'
-url_pdf: 'project1.pdf'
+url_pdf: 'content/project/bayesian/project1.pdf'
 url_slides: ''
 url_video: ''
 slides: ''
