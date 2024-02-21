@@ -12,7 +12,7 @@ image:
   caption: Photo by ChatGPT
   focal_point: Smart
 url_code: ''
-url_pdf: '/project4.pdf'
+url_pdf: 'uploads/project4.pdf'
 url_slides: ''
 url_video: ''
 slides: ''

@@ -13,7 +13,7 @@ image:
   caption: Photo by ChatGPT
   focal_point: Smart
 url_code: 'https://github.com/zl2860/COVID-19'
-url_pdf: '/project3.pdf'
+url_pdf: 'uploads/project3.pdf'
 url_slides: ''
 url_video: ''
 slides: ''
