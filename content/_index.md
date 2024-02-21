@@ -62,51 +62,43 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Biostatistician
+        - title: Part-time Biostatistician
           company: Beijing Anzhen Hospital
-          company_url: ''
-          # company_logo: org-gc
           location: Beijing, China
-          date_start: '2023-09-01'
+          date_start: '2023-06-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Research Assistant
+              Responsibilities include statistical analysis and modeling for medical research projects.
+        - title: Full-time Research Assistant (Biostatistician)
           company: Peking University Cancer Hospital & Institute
-          company_url: ''
-          # company_logo: org-x
           location: Beijing, China
-          date_start: '2021-08-01'
+          date_start: '2021-06-01'
           date_end: '2022-08-01'
-          description: Worked as a research assistant in the department of cancer epidemiology.
-        - title: Research Assistant
-          company: Columbia University
-          company_url: ''
-          # company_logo: org-x
-          location: New York, USA
-          date_start: '2020-08-01'
-          date_end: '2021-05-01'
-          description: Worked as a research assistant in the department of epidemiology.
-        - title: Research Assistant
-          company: New York State Psychiatry Institute
-          company_url: ''
-          # company_logo: org-x
+          description: Conducted biostatistical analysis and research in cancer epidemiology.
+        - title: Part-time Research Assistant
+          company: Department of Mental Health Data Science, New York State Psychiatry Institute
           location: New York, USA
           date_start: '2020-03-01'
           date_end: '2021-05-01'
-          description: Worked as a research assistant in the department of mental health data science.
+          description: Assisted in research projects focusing on mental health data science.
+        - title: Part-time Research Assistant
+          company: Tsinghua University Vanke School of Public Health
+          location: Beijing, China
+          date_start: '2020-03-01'
+          date_end: '2021-05-01'
+          description: Supported research activities in public health and epidemiology.
         - title: Staff Intern
-          company: Qingdao Center of Disease Control and Prevetion
-          company_url: ''
-          # company_logo: org-x
+          company: Qingdao Center for Disease Control and Prevention
           location: Qingdao, China
           date_start: '2019-02-01'
           date_end: '2019-06-01'
-          description: Internship in the department of occupational health.
+          description: Interned in the department of epidemiology and public health surveillance.
+        - title: Intern Staff & Physician
+          company: Shandong Qianfoshan Hospital
+          location: Jinan, China
+          date_start: '2017-05-01'
+          date_end: '2017-07-01'
+          description: Gained clinical experience and assisted in medical research projects.
     design:
       columns: '2'
   
@@ -127,10 +119,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Statistics
+          tag: Statistics
+        - name: Medicine
+          tag: Medicine
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -145,20 +137,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: contact
     id: contact
     content:

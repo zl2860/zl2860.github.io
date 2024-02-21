@@ -25,13 +25,14 @@ organizations:
     url: https://english.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include health data science, computational biology and cancer epidemiology. Currently I mainly focus on gastric cancer related topics.
+bio: My research interests include biostatistics, cancer epidemiology, health data science, and computational biology. Currently, I mainly focus on gastric cancer-related topics.
 
 # Interests to show in About widget
 interests:
+  - Biostatistics
+  - Cancer Epidemiology
   - Health Data Science
   - Computational Biology
-  - Epidemiology Methodology
 
 # Education to show in About widget
 education:
