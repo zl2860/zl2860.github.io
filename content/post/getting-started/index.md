@@ -4,15 +4,15 @@
 
 ## Introduction
 
-![Cover](/static/media/figure2.jpg)
+![Cover](/media/figure2.jpg)
 
 My PhD project focuses on the integration of multi-omics data and machine learning to revolutionize primary prevention of gastric cancer.The project spearheads the fight against gastric cancer by harnessing the power of multi-omics data integration and machine learning techniques. This dual approach not only aims to uncover the intricate biological interactions that predispose individuals to gastric cancer but also to develop robust, generalizable prevention strategies. By combining statistical genetics, epidemiology, biostatistics, metabolomics, and proteomics with causal stable learning, we are setting new standards in precision oncology and primary cancer prevention.
 
 Our work has progressively garnered significant recognition, including the Best Oral Presentation Award at the 2023 AACR-KCA Joint Conference in Precision Oncology. Furthermore, it has been spotlighted at the Sino-German Annual Conference, evidencing its impact and the scientific community's interest in our innovative methodologies.
 
-![Integrative Multi-Omics and Causal Stable Learning for Gastric Cancer Prevention](/content/post/getting-started/featured.jpg "Workflow")
+![Integrative Multi-Omics and Causal Stable Learning for Gastric Cancer Prevention](featured.jpg "Workflow")
 
-For a deeper understanding of our cutting-edge research, explore our [recent slides](/static/uploads/2023_sinogerman_lzc-note.pdf).
+For a deeper understanding of our cutting-edge research, explore our [recent slides](/uploads/2023_sinogerman_lzc-note.pdf).
 
 ## The Role of Causal Stable Learning
 
