@@ -16,7 +16,7 @@ For a deeper understanding of our cutting-edge research, explore our [recent sli
 
 ## The Role of Causal Stable Learning
 
-Causal stable learning is pivotal to our research, enabling us to identify and understand the causal mechanisms underlying gastric cancer. This innovative approach helps ensure that the predictive models we develop are not only accurate but also stable across different populations and settings, a critical aspect when aiming for universal cancer prevention strategies. Through causal inference, we can differentiate between correlation and causation, allowing for the identification of genuine risk factors and intervention targets that hold true across diverse cohorts.
+[Causal stable learning](https://www.nature.com/articles/s42256-022-00445-z) is pivotal to our research, enabling us to identify and understand the causal mechanisms underlying gastric cancer. This innovative approach helps ensure that the predictive models we develop are not only accurate but also stable across different populations and settings, a critical aspect when aiming for universal cancer prevention strategies. Through causal inference, we can differentiate between correlation and causation, allowing for the identification of genuine risk factors and intervention targets that hold true across diverse cohorts.
 
 ## Get Started
 
