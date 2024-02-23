@@ -125,5 +125,5 @@ social:
 highlight_name: true
 ---
 
-I'm a PhD student in Epidemiology and Biostatistics at Peking University School of Oncology. My research interests include health data science, computational biology and cancer epidemiology. Currently I mainly focus on gastric cancer related research topics. 
+I am a PhD student specializing in Epidemiology and Biostatistics at Peking University School of Oncology. My research is primarily focused on health data science, computational biology, and cancer epidemiology, with a particular emphasis on gastric cancer. Outside of my academic pursuits, I am passionate about bodybuilding and strength training, including powerlifting. 
 {style="text-align: justify;"}
